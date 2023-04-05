@@ -1,4 +1,6 @@
-# Chess game
+## Description
 Chess game created with java.
 
-**Credit** : Infomatiako
+## Screenshot
+![Screenshot](Screenshot.png)
+
